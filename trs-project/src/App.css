@@ -1,0 +1,13 @@
+.App {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.App-header {
+  margin-bottom: 1.5rem;
+}
+
+h1 {
+  font-size: clamp(2rem, 3vw, 3rem);
+}
