@@ -1,5 +1,6 @@
 {
-  "buildCommand": "cd trs-project && npm install && npm run build",
-  "outputDirectory": "trs-project/dist",
-  "framework": null
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "installCommand": "npm install"
 }
