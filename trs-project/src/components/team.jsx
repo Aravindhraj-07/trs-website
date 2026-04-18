@@ -1,11 +1,3 @@
-export default function Team() {
-  return (
-    <section>
-      <h2>Team</h2>
-      <p>This is the TRS project React component.</p>
-    </section>
-  )
-}
 import { useState, useEffect, useRef, useCallback } from "react";
 
 /* ═══════════════════════════════════════════════════════════════
