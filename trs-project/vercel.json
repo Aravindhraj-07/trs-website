@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd trs-project && npm install && npm run build",
+  "outputDirectory": "trs-project/dist",
+  "framework": null
+}
